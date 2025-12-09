@@ -1,3 +1,10 @@
+:root {
+  --font: "Roboto", "Open Sans", "Montserrat", "Raleway", "Rubik", "Ubuntu";
+  --main-color: white;
+  --secondary-color: #820dbd;
+  --tertiary-color: #bb5beb;
+}
+
 * {
   margin: 0;
   padding: 0;
